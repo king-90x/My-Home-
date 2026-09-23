@@ -74,7 +74,10 @@ a {
   height: 66px;
   position: relative; /* NEW — gives .nav-links a positioning anchor */
 }
+.branda{
 
+  width: 130px;
+}
 .brand {
   font-family: 'Fraunces', serif;
   font-weight: 600;
